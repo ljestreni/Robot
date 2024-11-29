@@ -9,5 +9,4 @@ public enum Orientacion {
     SUROESTE,
     OESTE,
     NOROESTE;
-
 }
